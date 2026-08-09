@@ -1,13 +1,17 @@
 # Business Analytics Modeling with JMP
 This project uses JMP to analyze consumer and workforce datasets through statistical and predictive modeling techniques including decision trees, K-Means clustering, principal component analysis (PCA), and linear regression.
 
-## Tools Used
+## Tool
+
 - JMP
-- Predictive Analytics
-- Decision Trees
+
+## Analytical Techniques
+
+- Decision Tree Modeling
 - K-Means Clustering
 - Principal Component Analysis (PCA)
 - Linear Regression
+- Descriptive Analysis
 - Data Visualization
 
 ## Business Problem
