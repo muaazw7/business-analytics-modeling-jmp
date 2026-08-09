@@ -28,7 +28,7 @@ The project analyzes relationships involving demographic characteristics, salary
 - Interpreted analytical results using R-squared, regression coefficients, decision-tree splits, cluster assignments, and principal components
 
 ## Business Value
-The analysis demonstrates how predictive analytics can identify behavioural patterns, customer segments, demographic trends, and variable relationships to support data-driven business decision-making.
+The project demonstrates how statistical and analytical methods can be used to explore behavioural patterns, segment observations, evaluate demographic and workforce relationships, and communicate data-driven findings for business decision-making.
 
 ## Skills Demonstrated
 - Predictive Analytics
