@@ -21,11 +21,11 @@ Organizations use statistical and predictive analysis to identify behavioural pa
 The project analyzes relationships involving demographic characteristics, salary, employment experience, and behavioural outcomes. Decision tree modeling is used to examine behavioural differences, K-Means clustering and PCA are used to identify and visualize groups within multidimensional data, and linear regression is used to evaluate relationships between continuous variables.
 
 ## Key Features
-- Developed a decision tree model to identify factors influencing brushing behaviour across demographic groups
-- Applied K-Means clustering to identify distinct customer and workforce segments
-- Performed principal component analysis (PCA) to visualize multidimensional relationships between variables
+- Developed a decision tree model to analyze demographic patterns associated with brushing frequency
+- Applied K-Means clustering to segment observations based on demographic and employment characteristics
+- Used principal component analysis (PCA) to visualize multidimensional relationships and cluster separation
 - Built a linear regression model to evaluate the relationship between salary and age
-- Interpreted model performance using R-squared, regression coefficients, clustering outputs, and principal component analysis
+- Interpreted analytical results using R-squared, regression coefficients, decision-tree splits, cluster assignments, and principal components
 
 ## Business Value
 The analysis demonstrates how predictive analytics can identify behavioural patterns, customer segments, demographic trends, and variable relationships to support data-driven business decision-making.
