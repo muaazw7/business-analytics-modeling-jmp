@@ -31,14 +31,15 @@ The project analyzes relationships involving demographic characteristics, salary
 The project demonstrates how statistical and analytical methods can be used to explore behavioural patterns, segment observations, evaluate demographic and workforce relationships, and communicate data-driven findings for business decision-making.
 
 ## Skills Demonstrated
-- Predictive Analytics
-- Decision Tree Modeling
+- Statistical Analysis
+- Predictive Modeling
+- Decision Tree Analysis
 - K-Means Clustering
 - Principal Component Analysis (PCA)
 - Linear Regression
-- Data Analysis
+- Data Interpretation
 - Data Visualization
-- Business Analysis
+- Business Analytics
 
 ## Analysis Results
 
