@@ -18,7 +18,7 @@ This project uses JMP to analyze consumer and workforce datasets through statist
 Organizations use statistical and predictive analysis to identify behavioural patterns, segment observations, evaluate demographic and workforce relationships, and support data-driven decision-making. This project applies multiple analytical techniques to explore these relationships across consumer and workforce datasets.
 
 ## Project Overview
-The project applies predictive analytics techniques to analyze relationships between demographic characteristics, salary, employment experience, and consumer behaviour. It includes decision tree modeling, K-Means clustering, principal component analysis (PCA), and linear regression to identify patterns and support business decision-making.
+The project analyzes relationships involving demographic characteristics, salary, employment experience, and behavioural outcomes. Decision tree modeling is used to examine behavioural differences, K-Means clustering and PCA are used to identify and visualize groups within multidimensional data, and linear regression is used to evaluate relationships between continuous variables.
 
 ## Key Features
 - Developed a decision tree model to identify factors influencing brushing behaviour across demographic groups
