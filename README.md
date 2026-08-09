@@ -1,4 +1,4 @@
-# Consumer Behavior Predictive Analytics
+# Consumer Behaviour Predictive Analytics
 This project uses JMP to analyze consumer and workforce data through predictive analytics techniques including decision trees, K-Means clustering, principal component analysis (PCA), and linear regression.
 
 ## Tools Used
@@ -11,10 +11,10 @@ This project uses JMP to analyze consumer and workforce data through predictive 
 - Data Visualization
 
 ## Business Problem
-Organizations use predictive analytics to identify customer segments, understand behavioral patterns, evaluate demographic relationships, and support data-driven business decisions. This project applies multiple analytical techniques to uncover meaningful patterns within consumer and workforce datasets.
+Organizations use predictive analytics to identify customer segments, understand behavioural patterns, evaluate demographic relationships, and support data-driven business decisions. This project applies multiple analytical techniques to uncover meaningful patterns within consumer and workforce datasets.
 
 ## Project Overview
-The project applies predictive analytics techniques to analyze relationships between demographic characteristics, salary, employment experience, and consumer behavior. It includes decision tree modeling, K-Means clustering, principal component analysis (PCA), and linear regression to identify patterns and support business decision-making.
+The project applies predictive analytics techniques to analyze relationships between demographic characteristics, salary, employment experience, and consumer behaviour. It includes decision tree modeling, K-Means clustering, principal component analysis (PCA), and linear regression to identify patterns and support business decision-making.
 
 ## Analytical Techniques
 - Decision Tree Modeling
@@ -24,14 +24,14 @@ The project applies predictive analytics techniques to analyze relationships bet
 - Descriptive Analytics
 
 ## Key Features
-- Developed a decision tree model to identify factors influencing brushing behavior across demographic groups
+- Developed a decision tree model to identify factors influencing brushing behaviour across demographic groups
 - Applied K-Means clustering to identify distinct customer and workforce segments
 - Performed principal component analysis (PCA) to visualize multidimensional relationships between variables
 - Built a linear regression model to evaluate the relationship between salary and age
 - Interpreted model performance using R-squared, regression coefficients, clustering outputs, and principal component analysis
 
 ## Business Value
-The analysis demonstrates how predictive analytics can identify behavioral patterns, customer segments, demographic trends, and variable relationships to support data-driven business decision-making.
+The analysis demonstrates how predictive analytics can identify behavioural patterns, customer segments, demographic trends, and variable relationships to support data-driven business decision-making.
 
 ## Skills Demonstrated
 - Predictive Analytics
