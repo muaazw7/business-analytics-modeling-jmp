@@ -20,13 +20,6 @@ Organizations use predictive analytics to identify customer segments, understand
 ## Project Overview
 The project applies predictive analytics techniques to analyze relationships between demographic characteristics, salary, employment experience, and consumer behaviour. It includes decision tree modeling, K-Means clustering, principal component analysis (PCA), and linear regression to identify patterns and support business decision-making.
 
-## Analytical Techniques
-- Decision Tree Modeling
-- K-Means Clustering
-- Principal Component Analysis (PCA)
-- Linear Regression
-- Descriptive Analytics
-
 ## Key Features
 - Developed a decision tree model to identify factors influencing brushing behaviour across demographic groups
 - Applied K-Means clustering to identify distinct customer and workforce segments
