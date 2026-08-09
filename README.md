@@ -1,4 +1,4 @@
-# Consumer Behaviour Predictive Analytics
+# Business Analytics Modeling with JMP
 This project uses JMP to analyze consumer and workforce data through predictive analytics techniques including decision trees, K-Means clustering, principal component analysis (PCA), and linear regression.
 
 ## Tools Used
