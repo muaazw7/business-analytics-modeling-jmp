@@ -15,7 +15,7 @@ This project uses JMP to analyze consumer and workforce datasets through statist
 - Data Visualization
 
 ## Business Problem
-Organizations use predictive analytics to identify customer segments, understand behavioural patterns, evaluate demographic relationships, and support data-driven business decisions. This project applies multiple analytical techniques to uncover meaningful patterns within consumer and workforce datasets.
+Organizations use statistical and predictive analysis to identify behavioural patterns, segment observations, evaluate demographic and workforce relationships, and support data-driven decision-making. This project applies multiple analytical techniques to explore these relationships across consumer and workforce datasets.
 
 ## Project Overview
 The project applies predictive analytics techniques to analyze relationships between demographic characteristics, salary, employment experience, and consumer behaviour. It includes decision tree modeling, K-Means clustering, principal component analysis (PCA), and linear regression to identify patterns and support business decision-making.
